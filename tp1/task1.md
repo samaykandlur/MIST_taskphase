@@ -1,5 +1,5 @@
 # Task 1
-
+[asm file](tp1/add.asm)
 ###### *07-12-2025*
 
 ## Write an assembly program (x86) that adds 2 arbitary numbers, and prints to the console.
@@ -310,3 +310,4 @@ Equivalent C:
 ```c
 exit(0);
 ```
+
