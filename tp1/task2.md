@@ -2,6 +2,8 @@
 
 ###### *07-12-2025*
 
+[asm file](tp1/caps.asm)
+
 ## Write an assembly program (x86) that takes a string as input from STDIN and capitalizes all characters.
 
 ---
@@ -279,3 +281,4 @@ Equivalent in C:
 ```
 exit(0);
 ```
+
